@@ -31,6 +31,63 @@
         <mxCell id="HIXaqfUQ-NH231my-G76-10" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-12" value="User/Auth Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-13" value="Catalog/Product Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-14" value="Order Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-15" value="Payment Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-16" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-17" value="BFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-18" value="BFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-19" value="BFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-20" value="BFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-21" value="User/Auth Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-22" value="User/Auth Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-23" value="Catalog/Product Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-24" value="Catalog/Product Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-25" value="Order Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-26" value="Order Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-27" value="Payment Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-28" value="Payment Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-29" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIXaqfUQ-NH231my-G76-30" value="Notification Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
